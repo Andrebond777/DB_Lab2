@@ -8,7 +8,7 @@ import static java.lang.Integer.*;
 
 class Model {
     static final String user = "postgres";
-    static final String password = "AZAZ1q1q";
+    static final String password = "password";
     static final String url = "jdbc:postgresql://localhost:5432/BusDepot";
 
 
